@@ -1,0 +1,31 @@
+/**
+ * 	Pe Icon Field 
+ */
+.font-icons-container {
+	height: 220px;
+	position: relative;
+	margin-top: 25px;
+}
+
+.font-icons-container span {
+	display: block;
+	float: left;
+	width: 70px;
+	height: 70px;
+}
+
+.font-icons-container span:hover,
+.font-icons-container span.selected {
+	cursor: pointer;
+	color: #d3145a
+}
+
+
+/**
+ * 	Google map location picker
+ */
+img.gmap-location {
+	vertical-align: middle;
+	margin-left: 10px;
+	width: 40px;
+}

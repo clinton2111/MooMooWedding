@@ -1,0 +1,579 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yes v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-04-08 15:59:14+0000\n"
+"Last-Translator: admin <goranefbl@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: archive.php:37
+#: index.php:40
+#: search.php:32
+#@ lt_yes
+msgid "Load More"
+msgstr ""
+
+#: comments.php:18
+#@ lt_yes
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:41
+#: includes/guestbook.php:40
+#@ lt_yes
+msgid "Name"
+msgstr ""
+
+#: comments.php:42
+#: includes/guestbook.php:41
+#@ lt_yes
+msgid "Email"
+msgstr ""
+
+#: comments.php:48
+#@ lt_yes
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:49
+#: includes/guestbook.php:57
+#@ lt_yes
+msgid "Comment"
+msgstr ""
+
+#: comments.php:50
+#@ lt_yes
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:51
+#@ lt_yes
+msgid "&#215"
+msgstr ""
+
+#: comments.php:70
+#@ lt_yes
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:70
+#@ lt_yes
+msgid "<span>1</span> Comment"
+msgstr ""
+
+#: comments.php:70
+#@ lt_yes
+msgid "<span>%</span> Comments"
+msgstr ""
+
+#: comments.php:82
+#: includes/guestbook.php:11
+#@ lt_yes
+msgid "Load more"
+msgstr ""
+
+#: comments.php:85
+#: includes/guestbook.php:14
+#@ lt_yes
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:86
+#: includes/guestbook.php:15
+#@ lt_yes
+msgid "&larr; Newer Comments"
+msgstr ""
+
+#: comments.php:97
+#: includes/guestbook.php:26
+#@ lt_yes
+msgid "Comments are closed."
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:161
+#: functions/theme-plugins.php:62
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:162
+#: functions/theme-plugins.php:63
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:163
+#: functions/theme-plugins.php:64
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:164
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:165
+#: functions/theme-plugins.php:66
+#, php-format
+#@ lt_yes
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:166
+#: functions/theme-plugins.php:67
+#, php-format
+#@ lt_yes
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:167
+#: functions/theme-plugins.php:68
+#, php-format
+#@ lt_yes
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:168
+#: functions/theme-plugins.php:69
+#, php-format
+#@ lt_yes
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:169
+#: functions/theme-plugins.php:70
+#, php-format
+#@ lt_yes
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:170
+#: functions/theme-plugins.php:71
+#, php-format
+#@ lt_yes
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:171
+#: functions/theme-plugins.php:72
+#, php-format
+#@ lt_yes
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:172
+#: functions/theme-plugins.php:73
+#, php-format
+#@ lt_yes
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:173
+#: functions/theme-plugins.php:74
+#@ lt_yes
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:174
+#: functions/theme-plugins.php:75
+#@ lt_yes
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:175
+#: functions/theme-plugins.php:76
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:176
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:177
+#: functions/plugins/class-tgm-plugin-activation.php:1945
+#: functions/theme-plugins.php:77
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:179
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:180
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:534
+#: functions/plugins/class-tgm-plugin-activation.php:2162
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1169
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1172
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1177
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1180
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1180
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1183
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1185
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1290
+#: functions/plugins/class-tgm-plugin-activation.php:1398
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1312
+#: functions/plugins/class-tgm-plugin-activation.php:1399
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1361
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1377
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1378
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1379
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1380
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: functions/plugins/class-tgm-plugin-activation.php:1636
+#: functions/plugins/class-tgm-plugin-activation.php:178
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1928
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1929
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1930
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1931
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1932
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1933
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:1944
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:2058
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:2059
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:2059
+#: functions/plugins/class-tgm-plugin-activation.php:2068
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:2059
+#: functions/plugins/class-tgm-plugin-activation.php:2068
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:2060
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:2061
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:2065
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:2066
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:2068
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:2069
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: functions/plugins/class-tgm-plugin-activation.php:2070
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/theme-functions.php:68
+#@ lt_yes
+msgid "Facebook Link"
+msgstr ""
+
+#: functions/theme-functions.php:69
+#@ lt_yes
+msgid "Twitter Link"
+msgstr ""
+
+#: functions/theme-functions.php:70
+#@ lt_yes
+msgid "Pinterest Link"
+msgstr ""
+
+#: functions/theme-functions.php:71
+#@ lt_yes
+msgid "Linkedin Link"
+msgstr ""
+
+#: functions/theme-functions.php:72
+#@ lt_yes
+msgid "Dribbble Link"
+msgstr ""
+
+#: functions/theme-functions.php:73
+#@ lt_yes
+msgid "Google+ Link"
+msgstr ""
+
+#: functions/theme-functions.php:74
+#@ lt_yes
+msgid "Instagram Link"
+msgstr ""
+
+#: functions/theme-functions.php:91
+#: functions/theme-functions.php:112
+#@ lt_yes
+msgid "<em>Your comment is awaiting moderation.</em>"
+msgstr ""
+
+#: functions/theme-functions.php:110
+#, php-format
+#@ lt_yes
+msgid "on %1$s at %2$s"
+msgstr ""
+
+#: functions/theme-functions.php:116
+#@ lt_yes
+msgid "Edit"
+msgstr ""
+
+#: functions/theme-plugins.php:65
+#@ tgmpa
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions/theme-plugins.php:78
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:48
+#@ lt_yes
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:49
+#@ lt_yes
+msgid "Inside Menu"
+msgstr ""
+
+#: includes/archive-single-item.php:35
+#@ lt_yes
+msgid "Read more"
+msgstr ""
+
+#: includes/page-title.php:5
+#@ lt_yes
+msgid "Back to home"
+msgstr ""
+
+#: includes/page-title.php:15
+#@ lt_yes
+msgid "Our Loveline"
+msgstr ""
+
+#: includes/page-title.php:39
+#@ lt_yes
+msgid "Author Archive: "
+msgstr ""
+
+#: includes/page-title.php:47
+#@ lt_yes
+msgid "Search Results for: "
+msgstr ""
+
+#: includes/page-title.php:59
+#@ lt_yes
+msgid "Previous Event"
+msgstr ""
+
+#: includes/page-title.php:65
+#@ lt_yes
+msgid "Next Event"
+msgstr ""
+
+#: includes/page-title.php:71
+#@ lt_yes
+msgid "Previous Article"
+msgstr ""
+
+#: includes/page-title.php:77
+#@ lt_yes
+msgid "Next Article"
+msgstr ""
+
+#: includes/page-title.php:83
+#@ lt_yes
+msgid "Error 404 - Page Not Found."
+msgstr ""
+
+#: includes/share.php:2
+#@ lt_yes
+msgid "Share"
+msgstr ""
+
+#: search.php:41
+#: single-events.php:87
+#: single.php:98
+#@ lt_yes
+msgid "Sorry, no posts matched your criteria. "
+msgstr ""
+
+#: single.php:37
+#@ lt_yes
+msgid "Tags: "
+msgstr ""
+

@@ -1,0 +1,52 @@
+#comments h3.section-title span,
+#instagram-section .hash,
+#logo,
+#main-menu li.submenu:hover:after,
+#main-menu li:hover>a,
+#main-menu nav#navigation a.active,
+#main-menu nav#navigation a:hover,
+.tweets .follow:hover,
+.box .date:before,
+.form .column:after,
+.loaderOverlay i,
+.small-box .amount,
+.small-box .donate:hover,
+.social ul li a:hover,
+.timeline .column.heart:after,
+.box a,
+a,
+footer .logo span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+{
+    color: #ff8c89;
+}
+
+#page-content blockquote {
+    border-left: 3px solid #ff8c89;
+}
+
+#back-home,
+#back-to-top,
+.invitation a,
+#menu-toggle,
+#menu-toggle:before,
+#navigation-dotted ul li a span,
+#navigation-dotted ul li a:before,
+.bgcolor,
+.form input[type=submit].color,
+.form input[type=submit].color:hover,
+.timeline-year span,
+a.button.fill,
+span.fill,
+input[type="submit"].color {
+    background-color: #ff8c89;
+}
+
+#navigation-dotted ul li a span:after {
+    border-color: transparent transparent transparent #ff8c89;
+}
