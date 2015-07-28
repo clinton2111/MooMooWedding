@@ -20,7 +20,7 @@
 				'description'			=> 'Visual Composer for WordPress is drag and drop frontend and backend page builder plugin that will save you tons of time working on the site content. You will be able to take full control over your WordPress site, build any layout you can imagine, no programming knowledge required.',
 				'required' 				=> true, // If false, the plugin is only 'recommended' instead of required
 				'is_automatic' 			=> true, 
-				'version' 				=> '4.5.2', // E.g. 1.0.0. If set, the active plugin must be this version or higher, otherwise a notice is presented
+				'version' 				=> '4.6.1', // E.g. 1.0.0. If set, the active plugin must be this version or higher, otherwise a notice is presented
 				'force_activation' 		=> false, // If true, plugin is activated upon theme activation and cannot be deactivated until theme switch
 				'force_deactivation' 	=> false, // If true, plugin is deactivated upon theme switch, useful for theme-specific plugins
 				'external_url' 			=> '', // If set, overrides default API URL and points to an external URL
@@ -31,6 +31,7 @@
 				'source'   				=> L_FUNCTIONS . 'plugins/yes_shortcodes.zip', // The plugin source
 				'required' 				=> true,
 				'is_automatic' 			=> true,
+				'version' 				=> '1.2',
 				'force_activation' 		=> false, // If true, plugin is activated upon theme activation and cannot be deactivated until theme switch
 				'force_deactivation' 	=> false, // If true, plugin is deactivated upon theme switch, useful for theme-specific plugins
 				'file'					=> 'yes_shortcodes/init.php',
@@ -43,7 +44,7 @@
 				'required' 	=> false,
 				'demo_required'			=> array('cf7'),
 				'demo_recommended'		=> array('page','modal'),
-				'version'	=> '4.0.1',
+				'version'	=> '4.2.1',
 				'file'		=> 'contact-form-7/wp-contact-form-7.php',
 				'description' => 'Contact Form 7 can manage multiple contact forms, plus you can customize the form and the mail contents flexibly with simple markup.'
 			),

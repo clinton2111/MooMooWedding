@@ -6,7 +6,7 @@ Author: Logica Themes
 Author URI: http://www.logicathemes.com/
 License: GNU General Public License version 3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Version: 1.2
+Version: 1.3.0
 Text Domain: lt_yes
 */
 /* Table of Content
@@ -2478,7 +2478,7 @@ span.wpcf7-not-valid-tip {
     background-position: 0 -127px;
 }
 
-#map-pins li.hotels {
+#map-pins li.hotel {
     background-position: 0 -160px;
 }
 
@@ -2490,7 +2490,7 @@ span.wpcf7-not-valid-tip {
     background-position: 0 -224px;
 }
 
-#map-pins li.attractions {
+#map-pins li.attraction {
     background-position: 0 -255px;
 }
 
@@ -3508,6 +3508,13 @@ ul.double-angle li:before {
     .tweets .arrow-up,
     .tweets .arrow-down {
         display: none;
+    }
+    .couple .images .column > span,.couple .images .column .lname {
+        right: 42px;
+    }
+    .couple .fname {
+    font-size: 32px;
+    letter-spacing: 6px;
     }
     #list_all_comments {
         padding-top: 40px;

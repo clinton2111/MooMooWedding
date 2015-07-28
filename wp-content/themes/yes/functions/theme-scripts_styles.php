@@ -61,7 +61,7 @@
 			wp_enqueue_script( 'plugins-js', get_template_directory_uri() . '/assets/js/plugins.js', array('jquery'), false, true );
 
 			if(isset($lt_yes_theme['opt-animate'])) {
-			    if($lt_yes_theme['opt-animate'] != 0 && is_page()) {		
+			    if($lt_yes_theme['opt-animate'] != 0) {		
 			        wp_enqueue_script( 'wow-js', get_template_directory_uri() . '/assets/js/wow.min.js', array('jquery'), false, true );
 				}
 			}
